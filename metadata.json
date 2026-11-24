@@ -1,0 +1,6 @@
+{
+  "name": "수평으로 던진 물체의 운동",
+  "description": "위에서 본 모습과 앞에서 본 모습을 통해 수평으로 던진 물체의 운동을 수평·수직 방향으로 나누어 관찰하는 물리 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
